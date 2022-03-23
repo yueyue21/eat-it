@@ -1,0 +1,21 @@
+.payment {
+  border: 2px solid rgb(20, 75, 6);
+  border-radius: 10px;
+}
+
+.required-label:after {
+  content: " *";
+  color: red;
+  font-size: large;
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+/* Firefox */
+input[type="number"] {
+  -moz-appearance: textfield;
+}

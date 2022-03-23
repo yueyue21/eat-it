@@ -1,0 +1,16 @@
+.icon {
+  width: 10px;
+  height: 10px;
+  margin-right: 2px;
+}
+
+.badge {
+  /* background-color: #24150e;
+  color: aliceblue; */
+  font-size: large;
+
+  border-radius: 25px;
+  margin-left: 8px;
+  margin-right: 4px;
+  font-weight: bold;
+}

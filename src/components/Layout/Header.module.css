@@ -1,0 +1,22 @@
+.header {
+  height: 6rem;
+  background-color: #f2ebe9;
+  color: #24150e;
+  display: flex;
+  justify-content: space-between;
+  padding: 0 10%;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.25);
+  z-index: 3;
+  align-items: center;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+}
+
+.main-image {
+  width: 100%;
+  height: 50vh;
+  z-index: 0;
+  overflow: hidden;
+}
